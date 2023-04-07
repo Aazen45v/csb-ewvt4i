@@ -1,4 +1,4 @@
-This website was made as a test project for the position of - Front End Engineer in Veridic Solutions HireSprint2023 .
+<h1>This website was made as a test project for the position of - Front End Engineer in Veridic Solutions HireSprint2023 .</h1>
 
 Website link: https://lnkd.in/dWpiCKGK
 
